@@ -30,3 +30,10 @@ Bu proje, çevredeki seslere tepki veren bir çeşme yapmayı amaçlamaktadır. 
 
 ### 4. Test ve Ayar
 - Sistemi test ederek, ses seviyesine göre doğru tepki verdiğinden emin olun.
+
+---
+
+### Yardım ve İletişim
+Projede karşılaştığınız herhangi bir sorun ya da yapamadığınız bir şey olursa, LinkedIn üzerinden bana ulaşabilirsiniz. Yardımcı olmaktan memnuniyet duyarım:  
+[LinkedIn Profilim](https://www.linkedin.com/in/albayrakahmet)
+
