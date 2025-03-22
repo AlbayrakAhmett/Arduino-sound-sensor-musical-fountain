@@ -4,6 +4,8 @@
 
 Bu proje, çevredeki seslere tepki veren bir çeşme yapmayı amaçlamaktadır. Ses sensörü, ortamda duyduğu seslere göre Arduino'yu tetikler. Arduino, bu veriye göre çeşmenin su akışını ya da müziği kontrol eder. Örneğin, bir ses duyulduğunda suyun akması başlayabilir veya müzik çalmaya başlayabilir. Sonuç olarak, sesle uyumlu çalışan interaktif bir deneyim ortaya çıkar, hem görsel hem de işitsel bir etki yaratılır.
 
+![image](https://github.com/user-attachments/assets/04b87382-3e5a-4dac-a1c1-923b68ef7a2b)
+
 ## Kullanılacak Malzemeler
 
 - **Arduino Uno**: Programlanabilir bir mikrodenetleyici kartıdır.
@@ -15,6 +17,8 @@ Bu proje, çevredeki seslere tepki veren bir çeşme yapmayı amaçlamaktadır. 
 - **Breadboard**: Lehim kullanmadan devre kurmaya yarayan araçtır.
 - **Power Supply**: Enerji sağlayan güç kaynağıdır.
 - **Direnç**: Elektrik akımına karşı koyan bileşendir.
+
+
 
 ## Proje Yapım Aşamaları
 
